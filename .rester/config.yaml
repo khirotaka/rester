@@ -1,0 +1,9 @@
+filetype:
+  - .aaa
+  - .bbb
+
+repository:
+  owner:
+    khirotaka
+  name:
+    rester
